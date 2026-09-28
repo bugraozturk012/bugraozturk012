@@ -90,4 +90,3 @@ küçük commit'lere bölerim.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bu%C4%9Fra-%C3%B6zt%C3%BCrk-67a573293/)
 [![E-posta](https://img.shields.io/badge/E--posta-24292F?style=flat-square&logo=gmail&logoColor=white)](mailto:ozturkbugra684@gmail.com)
-[![Portfolyo](https://img.shields.io/badge/Portfolyo-000000?style=flat-square&logo=vercel&logoColor=white)](https://bugraozturk.vercel.app)
